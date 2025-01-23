@@ -231,3 +231,6 @@
 [submodule "plugins/Crosshair"]
 	path = plugins/Crosshair
 	url = https://github.com/xXJSONDeruloXx/crosshair-plugin.git
+[submodule "plugins/gemstone"]
+	path = plugins/gemstone
+	url = https://github.com/Lowena-Cove/Gemstone
